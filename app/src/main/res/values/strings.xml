@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">WebView App</string>
-
+   <string name="webview_url">https://malak-17.github.io/HUEtopia/</string>
 </resources>
